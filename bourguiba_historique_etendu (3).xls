@@ -1,0 +1,117 @@
+date,evenement,type,lieu,description,importance,annee,decennie
+1903-08-03,Naissance à Monastir,Biographie,Monastir,Naissance de Habib Ben Ali Bourguiba dans une famille modeste,10,1903,1900
+1909-09-01,Début de l'école coranique,Éducation,Monastir,Études traditionnelles à la kouttab,6,1909,1900
+1913-09-01,Entrée au Collège Sadiki,Éducation,Tunis,Intégration du prestigieux collège moderniste,7,1913,1910
+1922-06-01,Obtention du baccalauréat,Éducation,Tunis,Diplôme obtenu avec mention,7,1922,1920
+1924-09-01,Départ pour la France,Éducation,Paris,Début des études supérieures en France,8,1924,1920
+1927-06-15,Licence en droit obtenue,Éducation,Paris,Diplôme de la Faculté de droit de Paris,8,1927,1920
+1927-06-20,Diplôme de sciences politiques,Éducation,Paris,Diplôme de l'École libre des sciences politiques,7,1927,1920
+1927-10-01,Retour en Tunisie,Personnel,Tunis,Retour au pays après les études,7,1927,1920
+1928-01-15,Début comme avocat,Professionnel,Tunis,Installation comme avocat au barreau de Tunis,7,1928,1920
+1928-03-12,Adhésion au Destour,Politique,Tunis,Premier engagement politique nationaliste,8,1928,1920
+1930-04-05,Mariage avec Mathilde Lorrain,Personnel,Paris,Mariage avec une Française rencontrée pendant ses études,6,1930,1930
+1931-03-01,Naissance de son fils Habib Jr,Personnel,Tunis,Naissance de son premier enfant,6,1931,1930
+1931-11-01,"Collaboration à ""La Voix du Tunisien""",Journalisme,Tunis,Débuts dans le journalisme politique,7,1931,1930
+1932-03-01,"Fondation de ""L'Action Tunisienne""",Journalisme,Tunis,Création du journal nationaliste moderne,9,1932,1930
+1933-05-15,Exclusion du Destour,Politique,Tunis,Conflit avec la vieille garde du parti,8,1933,1930
+1934-03-02,Congrès de Ksar Hellal,Politique,Ksar Hellal,Fondation du Néo-Destour avec les jeunes militants,10,1934,1930
+1934-05-10,Élection comme secrétaire général,Politique,Tunis,Prise de la direction du Néo-Destour,9,1934,1930
+1934-09-03,Première arrestation,Répression,Tunis,Arrestation par les autorités coloniales françaises,8,1934,1930
+1934-09-10,Déportation à Bordj le Bœuf,Emprisonnement,Sud tunisien,Internement au camp militaire isolé,7,1934,1930
+1936-05-01,Libération,Libération,Tunis,Libération après l'arrivée du Front populaire en France,7,1936,1930
+1936-06-15,Rencontre avec Léon Blum,Diplomatie,Paris,Entretien avec le président du Conseil français,8,1936,1930
+1937-10-01,Tournée politique en Tunisie,Politique,Tunisie,Campagne de sensibilisation à travers le pays,8,1937,1930
+1938-04-09,Manifestation du 9 avril 1938,Manifestation,Tunis,Grande manifestation nationaliste réprimée,9,1938,1930
+1938-04-10,Arrestation et emprisonnement,Emprisonnement,Tunis,Nouvelle arrestation après les manifestations,8,1938,1930
+1938-06-01,Transfert en France,Emprisonnement,Marseille,Incarcération au Fort Saint-Nicolas,7,1938,1930
+1940-06-20,Transfert à Lyon,Emprisonnement,Lyon,Nouveau lieu de détention,6,1940,1940
+1942-11-01,Libération par les Allemands,Libération,Lyon,Libération stratégique par les forces de l'Axe,7,1942,1940
+1943-01-15,Rencontte avec Mussolini,Diplomatie,Rome,Entretien avec le dirigeant italien,8,1943,1940
+1943-04-01,Retour discret en Tunisie,Personnel,Tunis,Retour après la libération de la Tunisie,7,1943,1940
+1945-03-23,Retour officiel en Tunisie,Politique,Tunis,Retour public après la fin de la guerre,8,1945,1940
+1945-06-01,Reconstitution du Néo-Destour,Politique,Tunis,Réorganisation du parti indépendantiste,9,1945,1940
+1946-03-01,"Lancement de ""La Voix de l'Indépendance""",Journalisme,Tunis,Nouveau journal nationaliste,7,1946,1940
+1946-09-01,Tournée dans le monde arabe,Diplomatie,Le Caire,Première tournée diplomatique arabe,8,1946,1940
+1948-01-15,Discours à la Ligue arabe,Diplomatie,Le Caire,Première intervention officielle internationale,8,1948,1940
+1949-03-01,Tournée aux États-Unis,Diplomatie,New York,Présentation de la cause tunisienne à l'ONU,8,1949,1940
+1950-04-01,Mémorandum pour l'autonomie,Négociation,Tunis,Proposition de réformes politiques,9,1950,1950
+1950-08-05,Plan de réformes en 7 points,Négociation,Tunis,Proposition d'autonomie interne progressive,9,1950,1950
+1951-10-15,Ultimatum au résident général,Politique,Tunis,Exigence d'avancées concrètes,8,1951,1950
+1951-12-15,Rejet des réformes par la France,Crise,Paris,Échec des négociations autonomistes,8,1951,1950
+1952-01-18,Nouvelle arrestation,Répression,Tunis,Arrestation durant l'escalade de la crise,7,1952,1950
+1952-03-01,Transfert à Tabarka,Emprisonnement,Tabarka,Nouveau lieu de détention,6,1952,1950
+1952-05-01,Transfert à La Galite,Emprisonnement,La Galite,Internement sur l'île fortifiée,7,1952,1950
+1954-05-01,Transfert à Grobois,Emprisonnement,France,Nouveau transfert en France,6,1954,1950
+1954-07-31,Discours de Carthage,Diplomatie,Tunis,Annonce par Mendès France de l'autonomie interne,9,1954,1950
+1955-06-01,Accords d'autonomie interne,Diplomatie,Paris,Signature des accords avec Edgar Faure,9,1955,1950
+1955-06-01,Libération,Libération,Paris,Libération après les accords,8,1955,1950
+1955-06-01,Retour triomphal en Tunisie,Politique,Tunis,Accueil par une foule immense,9,1955,1950
+1955-08-01,Élection à la tête du Néo-Destour,Politique,Tunis,Confirmation comme leader national,8,1955,1950
+1956-02-27,Nouvelles négociations,Négociation,Paris,Ouverture des pourparlers pour l'indépendance totale,9,1956,1950
+1956-03-20,Indépendance de la Tunisie,Historique,Tunis,Proclamation solennelle de l'indépendance,10,1956,1950
+1956-04-10,Élections constituantes,Politique,Tunisie,Victoire écrasante du Front national,9,1956,1950
+1956-04-11,Nomination comme Premier ministre,Gouvernement,Tunis,Chef du premier gouvernement indépendant,9,1956,1950
+1956-08-13,Promulgation du CSP,Réforme sociale,Tunis,Code du Statut Personnel émancipant les femmes,10,1956,1950
+1957-07-25,Proclamation de la République,Historique,Tunis,"Abolition de la monarchie, Bourguiba premier président",10,1957,1950
+1958-02-08,Incident de Sakiet Sidi Youssef,International,Frontière tuniso-algérienne,Bombardement français du village tunisien,8,1958,1950
+1958-06-01,Réforme éducative,Éducation,Tunisie,Unification et modernisation du système éducatif,9,1958,1950
+1958-10-01,Création du dinar tunisien,Économie,Tunis,Nouvelle monnaie nationale,8,1958,1950
+1959-06-01,Adoption de la Constitution,Politique,Tunis,Première constitution républicaine,9,1959,1950
+1959-11-08,Première élection présidentielle,Politique,Tunisie,Élection au suffrage universel,9,1959,1950
+1960-01-01,Campagne anti-paludisme,Santé,Tunisie,Programme national d'éradication,8,1960,1960
+1961-07-19,Début de la crise de Bizerte,Conflit,Bizerte,Revendication de la base militaire française,9,1961,1960
+1961-07-23,Affrontements militaires,Conflit,Bizerte,Combats entre forces tunisiennes et françaises,9,1961,1960
+1961-09-01,Cessez-le-feu,Diplomatie,Bizerte,Arrêt des combats après médiation internationale,8,1961,1960
+1962-10-15,Évacuation française,Diplomatie,Bizerte,Retrait définitif des troupes françaises,8,1962,1960
+1963-10-15,Récupération des terres agricoles,Réforme économique,Tunisie,Nationalisation des terres des colons,9,1963,1960
+1962-01-01,Lancement de la planification,Économie,Tunisie,Premier plan de développement économique,8,1962,1960
+1964-10-03,Nationalisation des terres,Réforme économique,Tunisie,Expropriation des terres des colons français,9,1964,1960
+1964-11-07,Congrès de Bizerte,Politique,Bizerte,Orientation socialiste du régime,8,1964,1960
+1965-01-01,Planning familial,Politique démographique,Tunisie,Lancement du programme de contrôle des naissances,8,1965,1960
+1965-03-01,Discours de Jéricho,Diplomatie,Jéricho,Appel à la reconnaissance d'Israël,9,1965,1960
+1965-10-01,Visite officielle en France,Diplomatie,Paris,Première visite d'État depuis l'indépendance,8,1965,1960
+1966-05-01,Visite de Nixon en Tunisie,Diplomatie,Tunis,Accueil du futur président américain,7,1966,1960
+1967-06-05,Guerre des Six Jours,International,Tunis,Position tunisienne lors du conflit israélo-arabe,8,1967,1960
+1968-01-01,Abandon du socialisme,Économie,Tunisie,Tournant vers l'économie de marché,8,1968,1960
+1969-01-01,Lancement de l'infitah,Économie,Tunisie,Politique d'ouverture économique,7,1969,1960
+1970-06-01,Réforme constitutionnelle,Politique,Tunis,Modification de la constitution,7,1970,1970
+1971-10-01,Congrès de Monastir,Politique,Monastir,Dernier congrès du Parti Socialiste Destourien,7,1971,1970
+1973-09-01,Guerre du Kippour,International,Tunis,Position tunisienne lors du conflit,7,1973,1970
+1974-09-01,Projet d'union avec la Libye,Diplomatie,Djerba,Signature de l'accord avec Kadhafi,7,1974,1970
+1975-03-18,Présidence à vie,Politique,Tunis,Proclamation par l'Assemblée nationale,8,1975,1970
+1976-01-01,Problèmes de santé,Personnel,Tunis,Premières alertes santé sérieuses,6,1976,1970
+1978-01-26,Jeudi noir,Crise sociale,Tunis,Grève générale et répression sanglante,9,1978,1970
+1979-09-01,Siège de la Ligue arabe,Diplomatie,Tunis,Transfert du siège du Caire à Tunis,8,1979,1970
+1980-02-01,Attaque de Gafsa,Sécurité,Gafsa,Attaque attribuée à la Libye,8,1980,1980
+1981-11-01,Premières élections pluralistes,Politique,Tunisie,Élections législatives multipartites,7,1981,1980
+1984-01-03,Émeutes du pain,Crise sociale,Tunisie,Violentes protestations contre la vie chère,9,1984,1980
+1985-10-01,Raid israélien sur le QG de l'OLP,International,Tunis,Bombardement du siège de l'OLP,8,1985,1980
+1986-04-15,Bombardement américain,International,Tunis,Raid américain suspecté de soutien au terrorisme,8,1986,1980
+1987-02-01,Dernier congrès du PSD,Politique,Tunis,Dernier congrès sous Bourguiba,7,1987,1980
+1987-10-02,Nomination de Ben Ali,Politique,Tunis,Dernier remaniement gouvernemental,9,1987,1980
+1987-11-07,Déposition,Historique,Tunis,"Ben Ali prend le pouvoir pour ""incapacité""",10,1987,1980
+1988-01-01,Assignation à résidence,Personnel,Monastir,Isolement forcé dans sa ville natale,7,1988,1980
+1990-01-01,Détérioration de la santé,Personnel,Monastir,Aggravation des problèmes médicaux,6,1990,1990
+2000-04-06,Décès,Biographie,Monastir,Mort à l'âge de 96 ans après 13 ans de résidence surveillée,10,2000,2000
+2000-04-08,Funérailles nationales,Cérémonie,Monastir,Cérémonie officielle et inhumation,9,2000,2000
+1960-01-01,Visite officielle aux États-Unis,Diplomatie,Washington,"Première visite officielle aux États-Unis, rencontre avec le président Eisenhower",8,1960,1960
+1965-03-01,Discours de Jéricho,Diplomatie,Jéricho,Appel controversé à la reconnaissance d'Israël,9,1965,1960
+1973-09-01,Accueil du sommet de l'OUA,Diplomatie,Tunis,Organisation du sommet de l'Organisation de l'Unité Africaine,8,1973,1970
+1958-09-01,Création de l'Université de Tunis,Éducation,Tunis,Fondation de la première université moderne tunisienne,8,1958,1950
+1960-01-15,Lancement de la campagne d'alphabétisation,Éducation,Tunisie,Programme national d'alphabétisation des adultes,8,1960,1960
+1962-01-01,Création de l'UGTT,Social,Tunis,Reconstitution de l'Union Générale Tunisienne du Travail,7,1962,1960
+1966-01-01,Création du Festival de Carthage,Culture,Carthage,Lancement du festival international de musique et d'arts,7,1966,1960
+1975-01-01,Inauguration du mausolée de Monastir,Culture,Monastir,Construction de son futur mausolée de son vivant,6,1975,1970
+1961-01-01,Lancement des coopératives agricoles,Économie,Tunisie,Politique de collectivisation des terres agricoles,8,1961,1960
+1972-01-01,Début du tourisme de masse,Économie,Tunisie,Lancement des grands projets touristiques sur le littoral,8,1972,1970
+1981-01-01,Plan d'ajustement structurel,Économie,Tunisie,Début des réformes économiques avec le FMI,8,1981,1980
+1963-01-01,Complot de Youssefistes,Politique,Tunis,Découverte d'un complot contre le régime,7,1963,1960
+1970-01-01,Affaire Ben Salah,Politique,Tunis,Disgrâce du ministre de l'Économie Ahmed Ben Salah,8,1970,1970
+1978-01-01,Crise avec l'UGTT,Social,Tunis,Conflit avec la centrale syndicale aboutissant aux grèves,8,1978,1970
+1961-08-01,Divorce avec Mathilde,Personnel,Tunis,Séparation d'avec sa première épouse,6,1961,1960
+1962-04-12,Mariage avec Wassila Ben Ammar,Personnel,Tunis,Second mariage avec une femme de la bourgeoisie tunisoise,6,1962,1960
+1976-03-01,Hospitalisation aux États-Unis,Personnel,Boston,Première hospitalisation prolongée à l'étranger,7,1976,1970
+1965-09-01,Tension avec Nasser,Diplomatie,Le Caire,Conflit idéologique avec le président égyptien,7,1965,1960
+1982-09-01,Accueil de l'OLP,Diplomatie,Tunis,Installation du siège de l'OLP après l'invasion du Liban,8,1982,1980
+1981-06-01,Publication de ses mémoires,Culture,Tunis,Parution des premiers volumes de ses mémoires politiques,7,1981,1980
+1989-01-01,Dernière apparition publique,Personnel,Monastir,Dernière apparition médiatique avant son décès,6,1989,1980
